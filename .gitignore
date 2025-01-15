@@ -1,0 +1,8 @@
+.DS_Store
+.env
+__pycache__
+venv
+env
+faiss_index
+uploaded_files
+.vercel
