@@ -19,26 +19,26 @@
 ### 🔧 Backend Setup
 
 1. **Clone the repository:**
- - git clone https://github.com/vengadesh-max/AskMyDoc.git
+   - git clone https://github.com/vengadesh-max/AskMyDoc.git
 2. **Navigate to the backend:**
 
- - cd backend
+   - cd backend
 3. **Install dependencies:** 
- - pip install -r requirements.txt
+   - pip install -r requirements.txt
 4. **Set up environment variables:**
- - Create a .env file in the backend folder to store any required configurations (like API keys or model settings).
+   - Create a .env file in the backend folder to store any required configurations (like API keys or model settings).
 5. **Start the backend server:**
- - uvicorn app:app --reload
+   - uvicorn app:app --reload
 
 
 ### 🌐 Frontend Setup (React.js)
 
 1. **Navigate to the frontend directory:**
- - cd ../frontend
+   - cd ../frontend
 2. **Install frontend dependencies:**
- - npm install
+   - npm install
 3. **Run the server:**
- - npm run dev
+   - npm run dev
 
 
 ## 🧩 System Overview 
