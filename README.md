@@ -33,12 +33,12 @@
 
 ### 🌐 Frontend Setup (React.js)
 
-1. **Navigate to the frontend directory:**
-   - cd ../frontend
-2. **Install frontend dependencies:**
-   - npm install
-3. **Run the server:**
-   - npm run dev
+1.  **Navigate to the frontend directory:**
+    - cd frontend
+2.  **Install frontend dependencies:**
+    - npm install
+3.  **Run the server:**
+    - npm run dev
 
 
 ## 🧩 System Overview 
