@@ -1,4 +1,4 @@
-# 🧠 AskMyDoc  ## Main Title
+# 🧠 AskMyDoc 
 
 **AskMyDoc** is a full-stack application that empowers users to interact with PDF documents using natural language. Simply upload a PDF, ask questions about its content, and receive intelligent, context-aware answers—powered by modern NLP tools.
 
